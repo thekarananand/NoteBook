@@ -118,11 +118,7 @@ urlpatterns = [
 ```
 
 ### Step 2 : Create the Function in views.py
-Inside `<APP_NAME>/views.py` file
-``` Python
-...
-def karan(request):
-    return HttpResponse("Hello, Karan Boss!")
+Inside `<APP_NAME>/views.py` filepip3 install -r requirements.txt Boss!")
 ...
 ```
 
