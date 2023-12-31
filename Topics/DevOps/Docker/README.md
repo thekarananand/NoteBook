@@ -11,7 +11,6 @@
 	- [Stop a Container](#-stop-a-container)
 	- [Execute Something in an existing Container](#execute-something-in-an-existing-container)
 	- [Display Logs of a Container](#display-logs-of-a-container)
-
 	- [Inspect Containers / Images](#inspect-containers--images)
 - [Remove Stuff](#remove-stuff)
 	- [Remove Containers](#remove-containers)
