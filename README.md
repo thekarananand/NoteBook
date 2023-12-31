@@ -1,10 +1,20 @@
 # NoteBook
 
-# DevOps
+## Table of Topics
 
-### [Docker 🐳](/Topics/DevOps/Docker/README.md)
-### [Dockerfile 📄🐳](/Topics/DevOps/Docker/README.md)
+### Basics
+- Linux 🐧
+	+  [Basic Commands](/Topics/Basics/Linux/Basic_Commands/README.md)
+- Version Control System
+	+  [Git 😸](/Topics/Linux/Git/README.md)
 
-# WebDev
+### DevOps
+- Containerization
+	+ [Docker 🐳](/Topics/DevOps/Docker/README.md)
+		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
+		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
+		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
 
-### [django 🐍](/Topics/WebDev/django/README.md)
+### WebDev
+
+- [django 🐍](/Topics/WebDev/django/README.md)
