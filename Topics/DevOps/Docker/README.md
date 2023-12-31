@@ -1,18 +1,25 @@
+# Docker 🐳
 **Table of Content**
 - [Pull Images & Spin Containers](#pull-images--spin-containers)
 	- [Pull A Docker Image](#pull-a-docker-image)
 	- [Run A Docker Container](#run-a-docker-container)
-- [List Stuff](#list)
+- [List Stuff](#list-stuff)
 	- [List local Docker Images](#list-local-docker-images)
 	- [List local Containers](#list-local-containers)
-- Control Existing Docker-stuff
+- [Control Existing Docker-stuff](#control-existing-docker-stuff)
 	- [Start an existing Container](#start-an-existing-container)
+	- [Stop a Container](#-stop-a-container)
+	- [Execute Something in an existing Container](#execute-something-in-an-existing-container)
+	- [Display Logs of a Container](#display-logs-of-a-container)
+
 	- [Inspect Containers / Images](#inspect-containers--images)
 - [Remove Stuff](#remove-stuff)
-	- [Remove Containers](###remove-containers)
-	- [Remove a Docker Image](###remove-a-docker-image)
+	- [Remove Containers](#remove-containers)
+	- [Remove a Docker Image](#remove-a-docker-image)
 
-# Pull Images & Spin Containers
+---
+
+## Pull Images & Spin Containers
 
 ### Pull A Docker Image
 ```bash
@@ -37,7 +44,7 @@ here,
 
 ---
 
-# List
+## List Stuff
 
 ### List local Docker Images
 ```bash
@@ -61,7 +68,7 @@ here,
 
 ---
 
-# Control Existing Docker-stuff
+## Control Existing Docker-stuff
 
 ### Start an existing Container
 ```bash
@@ -116,7 +123,7 @@ here,
 docker inspect <IMAGE ID/CONTAINER ID>
 ```
 
-# Remove Stuff
+## Remove Stuff
 
 ### Remove Containers
 
