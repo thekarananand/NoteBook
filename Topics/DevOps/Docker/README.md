@@ -1,3 +1,17 @@
+**Table of Content**
+- [Pull Images & Spin Containers](#pull-images--spin-containers)
+	- [Pull A Docker Image](#pull-a-docker-image)
+	- [Run A Docker Container](#run-a-docker-container)
+- [List Stuff](#list)
+	- [List local Docker Images](#list-local-docker-images)
+	- [List local Containers](#list-local-containers)
+- Control Existing Docker-stuff
+	- [Start an existing Container](#start-an-existing-container)
+	- [Inspect Containers / Images](#inspect-containers--images)
+- [Remove Stuff](#remove-stuff)
+	- [Remove Containers](###remove-containers)
+	- [Remove a Docker Image](###remove-a-docker-image)
+
 # Pull Images & Spin Containers
 
 ### Pull A Docker Image
@@ -30,7 +44,7 @@ here,
 docker images
 ```
 
-### List running Containers
+### List local Containers
 There are two commands for the same task.
 
 **Command 1 :**
