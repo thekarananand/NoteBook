@@ -11,8 +11,8 @@
 ### DevOps
 - Containerization
 	- Docker 🐳
-		- [Basics of Docker 🐳](/Topics/DevOps/Docker/Docker/README.md)
-		- [Builds 🏗 & Dockerfile 🐳📄](/Topics/DevOps/Docker/Builds-and-Dockerfile/README.md)
+		- [Basics of Docker 🐳](/Topics/DevOps/Docker/README.md)
+		- [Builds 🏗 & Dockerfile 🐳📄](/Topics/DevOps/Builds-and-Dockerfile/README.md)
 		- [Docker Compose 🐳🐙](/Topics/DevOps/Docker-Compose/README.md)
 - Orchestration
 	- [Docker Swarm 🐳🦢](/Topics/DevOps/Docker-Swarm/README.md)
