@@ -8,7 +8,7 @@
 	- [List local Containers](#list-local-containers)
 - [Control Existing Docker-stuff](#control-existing-docker-stuff)
 	- [Start an existing Container](#start-an-existing-container)
-	- [Stop a Container](#-stop-a-container)
+	- [Stop a Container](#stop-a-container)
 	- [Execute Something in an existing Container](#execute-something-in-an-existing-container)
 	- [Display Logs of a Container](#display-logs-of-a-container)
 	- [Inspect Containers / Images](#inspect-containers--images)
