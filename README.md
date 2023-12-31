@@ -10,10 +10,17 @@
 
 ### DevOps
 - Containerization
-	+ [Docker 🐳](/Topics/DevOps/Docker/README.md)
-		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
-		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
-		* [Dockerfile 🐳📄](/Topics/DevOps/Docker/README.md)
+	- Docker 🐳
+		- [Basics of Docker 🐳](/Topics/DevOps/Docker/Docker/README.md)
+		- [Builds 🏗 & Dockerfile 🐳📄](/Topics/DevOps/Docker/Builds-and-Dockerfile/README.md)
+		- [Docker Compose 🐳🐙](/Topics/DevOps/Docker-Compose/README.md)
+- Orchestration
+	- [Docker Swarm 🐳🦢](/Topics/DevOps/Docker-Swarm/README.md)
+	- [Kubernetes ☸](/Topics/DevOps/Kubernetes/README.md)
+
+- Configuration Management
+	- [Ansible 🅰️💽](/Topics/DevOps/Ansible/README.md)
+
 
 ### WebDev
 
